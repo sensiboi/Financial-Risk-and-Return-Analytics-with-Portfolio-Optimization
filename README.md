@@ -1,2 +1,5 @@
-# Financial-Risk-and-Return-Analytics-with-Portfolio-Optimization
-This study focuses on risk and return analysis of several portfolios like TCS, Infosys, ITC, HDFC Bank and Reliance and help to choose which is the best portfolio based on the risk factor
+This project analyzes the risk and return profile of a diversified stock portfolio using Python analytics.
+It includes volatility analysis, Sharpe ratio, beta, correlation-based diversification,
+Value at Risk, Monte Carlo simulation, and Power BI dashboards for decision-making.
+
+This project demonstrates how analytics transforms raw market data into actionable investment insights through risk measurement, diversification, and simulation-based forecasting.
